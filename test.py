@@ -31,3 +31,5 @@ print(ele_item)
 print("Average Marks:", average)
 print(student_name)
 
+print("Hello to github")
+
